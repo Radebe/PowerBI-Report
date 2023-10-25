@@ -1,6 +1,7 @@
 # CMPG323_Project5
-How can the reports be used:
-1. Customer Distribution: Visualize the distribution of customers based on titles (Mr, Dr, Gov, Miss, Mrs).
+#How can the reports be used:
+
+1. User can apply filters across all pages based on customerID, orderID, and order date
 2. Customer Engagement: Analyze the frequency of customer interactions by monitoring the number of times each customer appears in the dataset.
 3. Number of customers
 4. Customer details
@@ -15,10 +16,12 @@ How can the reports be used:
 13. Total sales
 14. Order quantity over time
 15. Orders by location
+16. Customer Distribution: Visualize the distribution of customers based on titles (Mr, Dr, Gov, Miss, Mrs).
+    
 
 
 
-References:
+#References:
 1.	Tarcisio de Oliveira (2023) Career Boost with Power BI - Day #2. https://www.youtube.com/watch?v=e54dIaiZH2I.
 2.	Tarcisio de Oliveira (2023b) Career Boost with Power BI - Day #3. https://www.youtube.com/watch?v=90E26Gqj62k.
 3.	CMPG323 - IT Developments (2023) 12 October Project 5 Introduction. https://www.youtube.com/watch?v=HrPipzMA5gk.
